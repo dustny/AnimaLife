@@ -1,0 +1,42 @@
+[
+      {
+        "name": "Polar Bear",
+        "description": "The Polar Bear is found in the coastal areas throughout the Arctic. Polar Bears are semi-aquatic mammals that live on the fringe of vast ice fields that surround the North Pole. The Polar Bear is the worlds largest carnivore species found on land. Although it is closely related to the brown bear, it has evolved to occupy a narrow ecological niche, with many body characteristics adapted for cold temperatures, for moving across snow, ice and open water and for hunting seals which make up most of its diet.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Polar-Bear-5405065-724x1024.jpg"
+  },
+      {
+        "name":"Leopard Seal",
+        "description": "The leopard seal (Hydrurga leptonyx), also referred to as the sea leopard, is the second largest species of seal in the Antarctic. It is only smaller than the southern elephant seal, and is the only member of the genus Hydrurga. Together with the Ross seal, the crabeater seal and the Weddell seal, it forms the tribe of Lobodontini seals.The leopard seal was first described by French zoologist Henri Marie Ducrotay de Blainville in 1820. The name of the seal’s genus, hydrurga, means “water worker” and leptonyx in its scientific name is the Greek for “thin-clawed.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Leopard-Seal-9275600-724x1024.jpg"
+  },
+      {
+        "name":"Colossal Squid",
+        "description": "The colossal squid (Mesonychoteuthis hamiltoni), also known as the Antarctic squid or giant cranch squid, is a member of the family Cranchiidae and the only member of the genus Mesonychoteuthis. It inhabits the Southern Ocean and is believed to be the largest squid species in terms of mass, reaching at least 495 kilograms (1,091 lb).The colossal squid is known only from a small number of specimens, and so little is actually known about this squid species. This is due to the fact they live deep in the ocean in freezing waters. We do know, however, that they have a similar appearance to other members of the Cranchiidae family, with hooks on their arms and tentacles.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Colossal-Squid-3081538-724x1024.jpg"
+  },
+      {
+        "name":"Adelie Penguin",
+        "description": "The Adelie Penguin (Pygoscelis adeliae) is, together with the Emperor Penguin, one of the only two types of penguin living on the Antarctic mainland. This species is common along the entire Antarctic coast and nearby islands. Adelie penguins are the smallest of the penguins living on the Antarctica continent. Adelie penguins were named after the wife of a French explorer in the 1830s.Adelie penguins nest and breed on the rocky, ice-free beaches in large colonies of ten thousands of birds. There are over 2.5 million breeding pairs living in the Antarctica region.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Adelie-Penguin-4544410-724x1024.jpg"
+  },
+      {
+        "name":"Emperor Penguin",
+        "description": "The Emperor Penguin stands 115 centimetres (45 inches) in height and weighs 35 – 40 kilograms (77 – 88 pounds) and is the tallest and heaviest of all living penguin species. It is the only penguin that breeds during the winter in Antarctica. Emperor Penguins typically live for 20 years, however, some records indicate a maximum life span of around 40 years. The Emperor Penguin should not be confused with the closely related King Penguin or the Royal Penguin.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Emperor-Penguin-6222918-724x1024.jpg"
+  },
+      {
+        "name":"King Penguin",
+        "description": "King Penguins live on the subantarctic islands at the northern reaches of Antarctica, as well as Tierra del Fuego, the Falkland Islands and other temperate islands of the region. The King penguin is the second largest penguin. It is sometimes confused with the larger Emperor penguin. Despite the specific name of ‘patagonicus’, King penguins no longer breed in Patagonia, or indeed any other part of South America.King Penguins would previously breed on Islas de los Estados (Staten Island) until the colony was wiped out by sealers during the 19th Century.he Emperor Penguin should not be confused with the closely related King Penguin or the Royal Penguin.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/King-Penguin-7457123-724x1024.jpg"
+  },
+      {
+        "name":"Macaroni Penguin",
+        "description": "The Macaroni Penguin is a species of penguin closely related to the Rockhopper Penguin. It is one of eight species of crested penguin that is found on the Antarctic Peninsula, on a number of Antarctic and subantarctic islands in the Atlantic and Indian oceans, and on the islands near the coasts of Chile and Argentina. Macaroni penguins are most notable for their long yellow-orange feathers on their crest that contrast with the black feathers on their head.Macaroni penguins are often confused with royal penguins, and are often thought of as the same species. However, they are in fact different species. Macaroni penguins are a member of the genus Eudyptes and the order Sphenisciformes. Their scientific name is Eudyptes chrysolophus.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Macaroni-Penguin-3397928-724x1024.jpg"
+  },
+      {
+        "name":"Royal Penguin",
+        "description": "The royal penguin (Eudyptes schlegeli) is a penguin species that inhabits the waters surrounding Antarctica. They belong to the genus Eudyptes and the family Spheniscidae. Royal penguins look very much like Macaroni Penguins, but have a white face and chin instead of the macaronis’ black visage. They got their name thanks to the head feathers that make them look very majestic.Royal penguins are found in the southern hemisphere near the Macquarie and Campbell Islands to the south of New Zealand. There is some controversy over whether they are a sub-species of macaroni penguins as both have black and yellow crests on their head. The royal penguin is the tallest crested penguin and belongs to the order Sphenisciformes.Individuals of the royal and macaroni penguin groups have been known to interbreed, though this is a relatively rare occurrence. Indeed, other penguins have been known to form mixed-species pairs in the wild. Adult male penguins are commonly called cocks and adult female penguins go by the name hens.",
+  "imageUrl": "https://animalcorner.org/wp-content/uploads/2023/10/Royal-Penguin-2970170-724x1024.jpg"
+  }
+    ]
